@@ -1,4 +1,5 @@
 [[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
+  from = "/search"
+  to = "https://covid19.mathdro.id/api"
+  status = 200
+  force = true
